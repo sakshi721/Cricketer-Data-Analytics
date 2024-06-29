@@ -5,10 +5,26 @@ In this project I have worked on the cricketers data from ESPN website with top 
 Steps Followed to the Analytics:----
 
 1. DATA COLLECTION: I collected the data from ESPN CRICK INFO website and load it to the excel sheet to woork on it.
-2. DATA CLEANING : After loading the data in to the excel file I saved it to the suitable folder and then after observing the data I worked on cleaning the data by eliminating or filling the missing values. Changing the format of the values from string to integers as the columns like Balls_faced, Strike_rate, 4s, 6s contains the values like 5*, 800+, 89+, 6+. So I removed the extra symbols that were messing up the data.
-3. Finding the duplicate entries and eliminating them.
-4. Feature Engineering: I created suitable columns from the existing columns so that the future calculations will become easy and sorted. I splitted the TIME SPAN {for which the player played} column to the Rookie year and Final Year respectively. Player Name column contains the country name also So I just splitted them to two columns.
-5. I solved analytical question such as
+
+3. DATA CLEANING : After loading the data in to the excel file I saved it to the suitable folder and then after observing the data I worked on cleaning the data by eliminating or filling the missing values. Changing the format of the values from string to integers as the columns like Balls_faced, Strike_rate, 4s, 6s contains the values like 5*, 800+, 89+, 6+. So I removed the extra symbols that were messing up the data.
+
+![image](https://github.com/sakshi721/Cricketer-Data-Analytics/assets/58660443/174669a7-2373-440a-a9b5-660474a14eba)
+
+
+4. Finding the duplicate entries and eliminating them.
+
+
+   ![image](https://github.com/sakshi721/Cricketer-Data-Analytics/assets/58660443/b2934b40-8e3e-4e80-83a6-491baea103f1)
+
+5. Feature Engineering: I created suitable columns from the existing columns so that the future calculations will become easy and sorted. I splitted the TIME SPAN {for which the player played} column to the Rookie year and Final Year respectively. Player Name column contains the country name also So I just splitted them to two columns.
+
+
+![image](https://github.com/sakshi721/Cricketer-Data-Analytics/assets/58660443/dd387e6c-4294-4d09-adde-68edc6a95efc)
+
+![image](https://github.com/sakshi721/Cricketer-Data-Analytics/assets/58660443/93dc8b54-be3c-476e-a2ae-01cc6a907658)
+
+   
+6. I solved analytical question such as
    
      a. Calculate average career length
 
