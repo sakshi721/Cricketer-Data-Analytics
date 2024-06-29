@@ -9,9 +9,28 @@ Steps Followed to the Analytics:----
 3. Finding the duplicate entries and eliminating them.
 4. Feature Engineering: I created suitable columns from the existing columns so that the future calculations will become easy and sorted. I splitted the TIME SPAN {for which the player played} column to the Rookie year and Final Year respectively. Player Name column contains the country name also So I just splitted them to two columns.
 5. I solved analytical question such as
+   
      a. Calculate average career length
+
+
+     ![image](https://github.com/sakshi721/Cricketer-Data-Analytics/assets/58660443/504b4387-bc12-4223-917c-107ac326cae3)
+
      b. Averge batting strike rate for cricketers who played for more than 10 years
-     c. Find number of cricketers who played before 1960
+
+     ![image](https://github.com/sakshi721/Cricketer-Data-Analytics/assets/58660443/349ed84b-4d18-4ee0-adfe-e5b3d782ceeb)
+
+   
+     c. Find the cricketers who played before 1960
+
+     ![image](https://github.com/sakshi721/Cricketer-Data-Analytics/assets/58660443/06d4927a-cbc3-4e96-8257-43e93d55beb6)
+
+
+   
      d. Max Highest inn scores by country
+
+   ![image](https://github.com/sakshi721/Cricketer-Data-Analytics/assets/58660443/d10cc243-d42f-4068-ac97-2d1d21cd6e2f)
+
      e. Hundreds, Fifties, Duck(0) avg By country
+
+   
    ![image](https://github.com/sakshi721/Price-predictor/assets/58660443/16f23ae1-7118-4560-b867-ef980696ed55)
